@@ -1,6 +1,6 @@
 # Contributing
 
-oloToolkit welcomes contributions from the community.
+HoloToolkit welcomes contributions from the community.
 If you have any questions, please reach out on the [HoloLens forums](https://forums.hololens.com/).
 
 # Process
